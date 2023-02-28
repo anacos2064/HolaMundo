@@ -1,2 +1,2 @@
-# HolaMundo
+# Hola Mundo
 Mi primer repositorio
